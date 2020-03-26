@@ -1,8 +1,8 @@
 ---
 layout: page
-title: research - under construction
+title: research
 permalink: /research/
-description: scalable characterization and engineering of biological systems to solve real-world problems
+description: under construction
 ---
 
 {% for project in site.projects %}
