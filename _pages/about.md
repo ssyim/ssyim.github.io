@@ -16,4 +16,4 @@ Sung Sun Yim is a postdoctoral fellow in Prof. Harris Wang’s lab at Columbia U
 
 Currently at the Wang lab, Sung is studying gene regulatory compatibility across diverse microbes to systematically expand host spectrum for synthetic biology and is also engineering cellular memory in DNA of living cells to develop living microbial diagnotics/therapeutics and living data storage devices.
 
-Sung's research interest lies in multi-scale characterization/engineering of biological systems towards developing useful solutions to real-world problems.
+Sung's research interest lies in multi-scale characterization and engineering of biological systems towards developing useful solutions to real-world problems.

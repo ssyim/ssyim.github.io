@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: scalable characterization and engineering of biological systems to solve real-world problems
 ---
 
 {% for project in site.projects %}
