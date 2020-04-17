@@ -4,4 +4,4 @@ date: 2018-3-19
 inline: true
 ---
 
-Metagenomic mining of regulatory elements is published in Nature Methods!
+Metagenomic mining of regulatory elements is published in <i>Nature Methods</i>!
