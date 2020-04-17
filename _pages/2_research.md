@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: under construction
+description: towards programmable microbiome | under construction
 ---
 
 {% for project in site.projects %}
