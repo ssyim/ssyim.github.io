@@ -4,4 +4,4 @@ date: 2017-11-23
 inline: true
 ---
 
-TRACE (temporal recording in arrays by CRISPR expansion) is out in Science!
+Our work on developing TRACE (temporal recording in arrays by CRISPR expansion) is published in Science!
