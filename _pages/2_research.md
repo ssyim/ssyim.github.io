@@ -5,7 +5,7 @@ permalink: /research/
 description: towards programmable microbiome | under construction
 ---
 
-Sung's research interest lies broadly in multi-scale characterization and engineering of diverse microbes and their communities towards understanding their design principles and transforming them into living microbial diagnostics and therapeutics.
+Sung's research interest lies broadly in multi-scale characterization and engineering of diverse microbes and microbial communities towards understanding their design principles and transforming them into living microbial diagnostics and therapeutics.
 
 To this end, Sung develops and utilizes a diverse set of systems/synthetic biology tools including high-throughput DNA synthesis and sequencing technologies, massively parallel reporter assays, directed evolution strategies, DNA-based cellular recording systems, and cell-free systems.
 
