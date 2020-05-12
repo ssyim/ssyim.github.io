@@ -12,6 +12,6 @@ news: true
 social: true
 ---
 
-Sung Sun Yim is a postdoctoral fellow in Prof. Harris Wang's lab at Columbia University. Sung holds B.S. and Ph.D. degrees in Chemical and Biomolecular Engineering from Korea Advanced Institute of Science and Technology (KAIST), where he concentrated upon developing genetic tools in an industrial microbe, <i>Corynebacterium glutamicum</i>, and expanding its carbon substrate range towards consolidated bioprocessing.
+Sung Sun Yim is a postdoctoral fellow in Prof. Harris Wang's lab at Columbia University. Sung holds B.S. and Ph.D. degrees in Chemical and Biomolecular Engineering from Korea Advanced Institute of Science and Technology (KAIST), where he devised various genetic tools for an industrial microbe, <i>Corynebacterium glutamicum</i>, and expanded its carbon substrate range towards raw biomass for consolidated bioprocessing.
 
-Currently at the Wang lab, Sung is studying gene regulatory compatibility across diverse microbes to better design genetic programs in the context of microbial community and is also engineering DNA-based memory in cells to develop living microbial diagnotics/therapeutics and data storage devices.
+Currently at the Wang lab, Sung is studying gene regulatory compatibility across diverse microbes to precisely manipulate their genetic programs in the context of microbial community. Sung is also engineering DNA-based memory in cells to develop living diagnotics, therapeutics, and digital data storage devices.
