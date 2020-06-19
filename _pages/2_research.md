@@ -11,7 +11,7 @@ To this end, Sung develops and utilizes a diverse set of systems/synthetic biolo
 
 Several technological innovations that Sung has contributed to in the field include,
 * temporal recording of biological/digital information into the genomes of living cells
-* multiplex characterizations of gene regulatory elements across diverse microbes
+* comparative characterization of gene regulatory elements across diverse microbes
 * expanding bacterial carbon substrate range towards raw biomass for biomanufacturing
 
 {% for project in site.projects %}
