@@ -5,7 +5,7 @@ permalink: /research/
 description: towards programmable microbiome | under construction
 ---
 
-My research interest lies broadly in characterization and engineering of diverse microbes and microbial communities across multiple scales towards understanding their design principles and transforming them into living sensors, therapeutics, factories, and bioremediation systems.
+My research interest lies broadly in characterization and engineering of diverse microbes and microbial communities in various environments towards understanding their design principles and transforming them into living sensors, therapeutics, factories, and bioremediation systems.
 
 To this end, I develop and utilize a diverse set of systems and synthetic biology tools including high-throughput DNA synthesis and sequencing technologies, massively parallel reporter assays, directed evolution strategies, DNA-based cellular recording systems, and cell-free systems.
 
