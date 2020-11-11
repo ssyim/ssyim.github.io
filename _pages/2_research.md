@@ -9,7 +9,7 @@ My research interest lies broadly in characterization and engineering of diverse
 
 To this end, I develop and utilize a diverse set of systems and synthetic biology tools including high-throughput DNA synthesis and sequencing technologies, massively parallel reporter assays, directed evolution strategies, DNA-based cellular recording systems, and cell-free systems.
 
-Several technological innovations to which I have contributed in the field include,
+Several technological advances to which I have contributed include,
 * temporal recording of biological/digital information into the genomes of living cells
 * cell-free characterization of gene regulatory elements across diverse microbes
 * synbio toolbox for a food-grade industrial microbe, <i>Corybacterium glutamicum</i>
