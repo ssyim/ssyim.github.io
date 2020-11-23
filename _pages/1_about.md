@@ -12,7 +12,7 @@ news: true
 social: true
 ---
 
-I am a postdoctoral fellow in the laboratory of Prof. Harris Wang at Columbia University. My research interest lies broadly in better understand and predictably manipulate diverse microbes towards understanding their design principles and transforming them into living sensors, therapeutics, and factories. To this end, I develop and utilize a diverse set of systems and synthetic biology tools including high-throughput DNA synthesis and sequencing technologies, massively parallel reporter assays, directed evolution strategies, DNA-based cellular recording systems, and cell-free gene expression systems.
+I am a postdoctoral fellow in the laboratory of Prof. Harris Wang at Columbia University. My research interest lies broadly in characterization and engineering of diverse microbes towards understanding their design principles and transforming them into living sensors, therapeutics, and factories. To this end, I develop and utilize a diverse set of systems and synthetic biology tools including high-throughput DNA synthesis and sequencing technologies, massively parallel reporter assays, directed evolution strategies, DNA-based cellular recording systems, and cell-free gene expression systems.
 
 I received my Ph.D. degree in Chemical and Biomolecular Engineering from KAIST, where I worked with Prof. Ki Jun Jeong. My dissertation work focused on developing genetic tools for a food-grade industrial microbe, <i>Corynebacterium glutamicum</i>, and extending its carbon substrate range towards raw plant biomass for consolidated bioprocessing and biomanufacturing.
 
