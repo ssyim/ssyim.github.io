@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-10-3
+date: 2020-9-14
 inline: true
 ---
 
-I gave an invited talk on the DRAFTS approach (DNA regulatory element analysis by cell-free transcription and sequencing) at SynBioBeta 2018.
+Our work on protecting linear DNA templates in diverse bacterial cell-free systems is published in ACS Synthetic Biology!

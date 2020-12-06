@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2017-11-23
+date: 2020-5-26
 inline: true
 ---
 
-Our work on developing TRACE (temporal recording in arrays by CRISPR expansion) is published in Science!
+Hello world! This pandemic has been a really good time to learn new things!

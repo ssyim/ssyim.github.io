@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-3-19
+date: 2020-6-13
 inline: true
 ---
 
-Metagenomic mining of diverse regulatory elements and their high-throughput characterization is published in Nature Methods!
+I became a dad! Welcome to the world, Hailey!
