@@ -16,6 +16,6 @@ I am a postdoctoral fellow in the lab of Prof. Harris Wang at Columbia Universit
 
 I received my Ph.D. degree in Chemical and Biomolecular Engineering from KAIST with Prof. Ki Jun Jeong. For my dissertation work, I developed genetic tools for a food-grade industrial microbe, <i>C. glutamicum</i>, and extended its carbon substrate range towards raw plant biomass for consolidated bioprocessing.
 
-In the Wang lab, beyond engineering of a single bacterial strain, I have been working towards modulating diverse members in microbial communities. As a first step, I devised a cell-free framework for rapid characterization of thousands of gene regulatory elements across diverse bacterial species.
+In the Wang lab, beyond engineering of a single bacterial strain, I have been working towards modulating diverse members in microbial communities. As a first step, I have devised a cell-free framework for rapid characterization of thousands of gene regulatory elements across diverse bacterial species.
 
 I am also developing cellular recording systems to encode digital data and measure biologically relevant signals in places that are otherwise difficult to access, such as inside the body.
