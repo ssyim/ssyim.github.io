@@ -12,7 +12,7 @@ news: true
 social: true
 ---
 
-I am a postdoctoral fellow in the lab of Prof. Harris Wang at Columbia University. My research interest lies broadly in characterization and engineering of diverse microbes towards understanding their design principles and transforming them into living sensors, therapeutics, and factories.
+I am a postdoctoral fellow in the lab of Prof. Harris Wang at Columbia University. My research interest lies broadly in characterization and engineering of diverse microbes and microbial communities towards understanding their design principles and transforming them into living sensors, therapeutics, and factories.
 
 I received my Ph.D. degree in Chemical and Biomolecular Engineering from KAIST with Prof. Ki Jun Jeong. For my dissertation work, I developed genetic tools for a food-grade industrial microbe, <i>C. glutamicum</i>, and extended its carbon substrate range towards raw plant biomass for consolidated bioprocessing.
 
