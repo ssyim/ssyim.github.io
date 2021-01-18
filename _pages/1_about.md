@@ -18,4 +18,4 @@ I received my Ph.D. degree in Chemical and Biomolecular Engineering from KAIST w
 
 In the Wang lab, I have been working towards modulating diverse members and their interactions in microbial communities. As a first step, I have devised a cell-free framework for rapid characterization of thousands of gene regulatory elements across diverse bacterial species using crude cell lysates.
 
-I am also developing cellular recording systems to measure biologically relevant signals in places that are otherwise difficult to access, such as inside the body, and to store digital data.
+I am also developing cellular recording systems to store digital data and measure biologically relevant signals in places that are otherwise difficult to access, such as inside the body.
